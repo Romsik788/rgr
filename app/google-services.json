@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343918754612",
+    "project_id": "notes-21104",
+    "storage_bucket": "notes-21104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343918754612:android:c18789d258d1faeda30361",
+        "android_client_info": {
+          "package_name": "com.roman.rgr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx2ZeHk8MXqmnTRBc5P9VuCUrcCuuFWi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
